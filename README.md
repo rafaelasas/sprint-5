@@ -14,3 +14,6 @@ O objetivo é construir um aplicativo web interativo utilizando **Streamlit**, c
 - Pandas
 - Plotly Express
 - Streamlit
+
+# URL do Render
+https://sprint-5-r7ye.onrender.com
