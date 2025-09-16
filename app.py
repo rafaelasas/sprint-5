@@ -3,11 +3,7 @@ import plotly.express as px
 import streamlit as st
 
 # ler o dataset
-<<<<<<< HEAD
 car_data = pd.read_csv('vehicles.csv')
-=======
-pd.read_csv('notebooks/vehicles.csv')
->>>>>>> 15a5c015f6adc0d6cc191fa550c34a4ef844f823
 
 # cabeçalho
 st.header("Análise de Dados de Veículos")
